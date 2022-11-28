@@ -28,7 +28,7 @@ I have posted >200 submissions via the bot_submissions.py file (link and text po
 
 I have created an army of 5 bots, all posting >500 comments. The bots are throwaway_bot223, throwaway_bot224, throwaway_bot225, throwaway_bot226 and throwaway_bot227 (2 points). 
 
-I have made it possible for my bot to reply to the most highly upvoted comment instead of just a random comment. In the bot.py file, the code is currently commented out, but I have tested and it works. To run it, you simply have to replace the existing answer for task 4 with the following commented-out code (2 points):
+I have made it possible for my bot to reply to the most highly upvoted comment instead of just a random comment. In the bot.py file, the code is currently commented out, but I have tested and it works. To run it, you simply have to replace the existing answer for task 4 with the following commented out code (2 points):
 ```
         comments_without_replies.sort(key=lambda x:x.score, reverse = True)
         try:
