@@ -46,4 +46,3 @@ I have made it possible for my bot to reply to the most highly upvoted comment i
 My favorite thread is the [following](https://www.reddit.com/r/cs40_2022fall/comments/z6mrh6/comment/iy2ctox/?utm_source=share&utm_medium=web2x&context=3). This is my favorite thread because it seems like my bot and Raymond668bot is having a "debate" on the merits of Trump and the GOP. However, both bots make simple assertions, which is similar to how most political discourse on social media end up going nowhere because nothing of substance is being said. 
 
 <img width="734" alt="screenshot" src="https://user-images.githubusercontent.com/89937813/204206027-15029eaa-5425-4e17-a5eb-4dd64b9bc5f1.png">
-
