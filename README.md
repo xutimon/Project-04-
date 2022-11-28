@@ -24,7 +24,7 @@ NOTE: the number valid_comments will be used to determine your grade
 
 
 # Optional Tasks 
-I have posted >200 submissions from the subreddit r/YangForPresidentHQ (2 points). 
+I have posted >200 submissions via the bot_submissions.py file (link and text posts) from the subreddit r/YangForPresidentHQ (2 points). 
 
 I have created an army of 5 bots, all posting >500 comments. The bots are throwaway_bot223, throwaway_bot224, throwaway_bot225, throwaway_bot226 and throwaway_bot227 (2 points). 
 
