@@ -26,6 +26,6 @@ I have made it possible for my bot to reply to the most highly upvoted comment i
 
 
 
-#Favorite Thread
+# Favorite Thread
 My favorite thread is the following
 
