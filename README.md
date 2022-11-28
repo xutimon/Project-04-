@@ -43,5 +43,5 @@ I have made it possible for my bot to reply to the most highly upvoted comment i
 
 
 # Favorite Thread
-My favorite thread is the following
+My favorite thread is the [following](https://www.reddit.com/r/cs40_2022fall/comments/z0nlj9/throwawaytest2/)
 
